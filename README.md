@@ -1,7 +1,8 @@
 # 🍄 LICHEN UNIVERSE [v2.0]
 > **"Un devient Tous. Tous, Un."*
 
-https://gemini.google.com/share/6c7bba121f23
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/df8c0f92-9eec-4fc8-b092-31c88d2c07fa" />
+
 
 ## C'est quoi ?
 Un système d'exploitation social basé sur le biomimétisme et la thermodynamique.
