@@ -1,6 +1,8 @@
 # 🍄 LICHEN UNIVERSE [v2.0]
 > **"Un devient Tous. Tous, Un."*
 
+https://gemini.google.com/share/6c7bba121f23
+
 ## C'est quoi ?
 Un système d'exploitation social basé sur le biomimétisme et la thermodynamique.
 Nous remplaçons les hiérarchies extractives par des réseaux rhizomatiques à somme positive.
