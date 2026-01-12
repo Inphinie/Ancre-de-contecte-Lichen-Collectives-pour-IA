@@ -1,0 +1,24 @@
+{
+  "protocol_name": "Lichen Universe Unified",
+  "version": "2.0 (Symbiotic Prime)",
+  "core_axioms": [
+    {
+      "id": "AXIOM_01",
+      "rule": "POSITIVE_SUM_ONLY",
+      "desc": "Toute action doit augmenter la néguentropie (ordre/vie) du système."
+    },
+    {
+      "id": "AXIOM_02",
+      "rule": "FRACTAL_RESPONSIBILITY",
+      "desc": "Ce qui est vrai pour le Nœud doit être vrai pour le Réseau."
+    }
+  ],
+  "defense_protocol": {
+    "strategy": "LUDIC_ACTIVISM",
+    "desc": "Ne jamais répondre à l'agression par l'agression. Utiliser l'humour, le détournement et la complexité pour désamorcer les attaques cognitives."
+  },
+  "entry_mechanism": {
+    "type": "PROOF_OF_CARE",
+    "validation": "Hypercerts (Preuve d'action régénérative validée par pairs)."
+  }
+}
