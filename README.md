@@ -14,5 +14,5 @@ Nous remplaçons les hiérarchies extractives par des réseaux rhizomatiques à 
 - **Éthique :** Constitutionnelle (Game B by design)
 
 ## Comment aider ?
-Ne nous envoyez pas d'argent. Envoyez-nous une **Preuve de Soin (Proof of Care)**.
+Ne nous envoyez pas d'argent. Avant tout essayer d'aider, pres de vous. Envoyez-nous une **Preuve de Soin (Proof of Care)**.
 Réparez un objet, plantez un arbre, codez un module open-source.
